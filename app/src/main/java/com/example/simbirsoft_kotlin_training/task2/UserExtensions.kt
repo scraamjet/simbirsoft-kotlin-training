@@ -1,4 +1,4 @@
-package com.example.simbirsoft_kotlin_training
+package com.example.simbirsoft_kotlin_training.task2
 
 fun User.checkAdult(): Result<Unit> {
     return if (age >= 18) {

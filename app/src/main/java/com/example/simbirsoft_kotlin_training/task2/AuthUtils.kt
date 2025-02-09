@@ -1,4 +1,4 @@
-package com.example.simbirsoft_kotlin_training
+package com.example.simbirsoft_kotlin_training.task2
 
 inline fun auth(updateCache: () -> Unit) {
     println("Authenticating user...")

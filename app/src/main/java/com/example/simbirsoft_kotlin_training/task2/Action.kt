@@ -1,4 +1,4 @@
-package com.example.simbirsoft_kotlin_training
+package com.example.simbirsoft_kotlin_training.task2
 
 sealed class Action {
     object Registration : Action()

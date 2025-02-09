@@ -1,5 +1,8 @@
 package com.example.simbirsoft_kotlin_training
 
+import com.example.simbirsoft_kotlin_training.task2.Type
+import com.example.simbirsoft_kotlin_training.task2.User
+import com.example.simbirsoft_kotlin_training.task2.checkAdult
 import junit.framework.TestCase.assertEquals
 import junit.framework.TestCase.assertTrue
 import org.junit.Before
