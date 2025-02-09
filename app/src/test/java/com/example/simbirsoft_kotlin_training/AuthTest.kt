@@ -1,5 +1,11 @@
 package com.example.simbirsoft_kotlin_training
 
+import com.example.simbirsoft_kotlin_training.task2.Action
+import com.example.simbirsoft_kotlin_training.task2.AuthCallback
+import com.example.simbirsoft_kotlin_training.task2.Type
+import com.example.simbirsoft_kotlin_training.task2.User
+import com.example.simbirsoft_kotlin_training.task2.auth
+import com.example.simbirsoft_kotlin_training.task2.doAction
 import org.junit.Test
 
 class AuthTest {

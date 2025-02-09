@@ -1,5 +1,8 @@
 package com.example.simbirsoft_kotlin_training
 
+import com.example.simbirsoft_kotlin_training.task1.Book
+import com.example.simbirsoft_kotlin_training.task1.Magazine
+import com.example.simbirsoft_kotlin_training.task1.buy
 import junit.framework.TestCase.assertEquals
 import junit.framework.TestCase.assertFalse
 import org.junit.Assert.assertNotEquals

@@ -1,4 +1,4 @@
-package com.example.simbirsoft_kotlin_training
+package com.example.simbirsoft_kotlin_training.task1
 
 fun buy(publication: Publication) {
     println(
